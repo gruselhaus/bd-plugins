@@ -1,0 +1,9 @@
+{
+	"settings": {
+		"running": true
+	},
+	"values": {
+		"timer1": 25,
+		"timer2": 75
+	}
+}
